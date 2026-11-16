@@ -1,0 +1,9 @@
+.git
+.commandcode
+.staging
+AGENTS.md
+README.md
+LICENSE
+Dockerfile
+docker-compose.yml
+.dockerignore

@@ -1,0 +1,15 @@
+.staging/
+.commandcode/
+.DS_Store
+Thumbs.db
+
+# Dados internos/sensíveis
+AGENTS.md
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets*
+credentials*
